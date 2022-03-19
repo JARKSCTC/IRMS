@@ -9656,11 +9656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\IRMS\\IRMS\\IRMS.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\IRMS\\IRMS\\IRMS.csproj",
       "projectName": "IRMS",
-      "projectPath": "E:\\Projects\\IRMS\\IRMS\\IRMS.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\IRMS\\IRMS\\IRMS.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\IRMS\\IRMS\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\IRMS\\IRMS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9730,7 +9730,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
